@@ -2,7 +2,7 @@ package homework;
 
 import java.util.Scanner;
 
-public class SwitchCase {
+public class TernaryOperator {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Q. 다음 중 프로그래밍 언어가 아닌 것은?");
@@ -13,9 +13,6 @@ public class SwitchCase {
 
         int answer = input.nextInt();
 
-        switch(answer){
-            case 1:
-                System.out.println("오답!!");
-        }
+
     }
 }
