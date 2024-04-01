@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5937899d-85a5-4486-9361-5b74663ec9ea" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Back-End-04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/Overloading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/Phone1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/Tv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/김민재.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../신수민/신수민.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/OverRiding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +30,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2eUhWmzrgOewZ4NQw1bAGGvQbNk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,6 +52,7 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/pc/OneDrive/Desktop/Back-End-04/김민재/Practice/src/Main.java",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.OverRiding.executor": "Run",
     "애플리케이션.Overloading1.executor": "Run",
     "애플리케이션.Test1.executor": "Run"
   }
@@ -77,12 +74,23 @@
       <updated>1711965098208</updated>
       <workItem from="1711965099296" duration="547000" />
       <workItem from="1711965875776" duration="576000" />
-      <workItem from="1711966544475" duration="869000" />
+      <workItem from="1711966544475" duration="2766000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
