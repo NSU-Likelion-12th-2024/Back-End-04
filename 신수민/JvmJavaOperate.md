@@ -16,4 +16,4 @@ Java 는 OS에 종속적이지 않다는 특징을 가지고 있다. OS에 종�
 1) 작성한 자바소스가(JAVA Source) .java인 파일을 자바 컴파일러(JAVA Compiler)를 통해 자바 바이코드(JAVA Byte Code)로 컴파일 한다.
 2) 컴파일된 바이코드를 JVM의 클래스로드(Class Loader)에게 전달한다.
 3) 클래스로더는 동적로딩(Dynamic Loading)을 통해 필요한 클래스들을 로딩 및 링크하여 런타임 데이터 영역(Runtime Data area), 즉 JVM의 메모리에 올린다
-4) 실행엔진(Execution Engine)은 JVM메모리에 올라온 바이트 코드들을 명령어 단위로 하나씩 가져와서 실행한다.
+4) 실행엔진(Execution Engine)은 JVM메모리에 올라온 바이트 코드들을 명령어 단위로 하나씩 가져와서 실행한다..
