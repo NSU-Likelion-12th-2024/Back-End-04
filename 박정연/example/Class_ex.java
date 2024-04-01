@@ -13,6 +13,7 @@ public class Class_ex {
     public static void main(String[] args){
         TV LGtv = new TV();
         TV Samsungtv = new TV();
+        TV Appletv = new TV();
 
         Samsungtv.Power();
     }
