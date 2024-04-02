@@ -15,8 +15,9 @@ public class TernaryOperator {
         System.out.println("4. 멋쟁이 사자처럼");
 
         answer = input.nextInt();
-        result =  (answer == 4) ? "정답" : "오답";
+        result =  (answer == 4) ? "정답!!" : "오답";
         System.out.println(result);
-        }while(answer==4);
+        System.out.println();
+        }while(answer!=4);
     }
 }
