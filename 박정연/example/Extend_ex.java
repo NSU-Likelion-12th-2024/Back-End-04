@@ -21,6 +21,7 @@ class SmartPhone extends Phone{
     void message(){System.out.println("오버라이딩 된 메세지입니다.");}
 }
 
+
 public class Extend_ex {
     public static void main(String[] args){
         //=========================오버로딩 결과
