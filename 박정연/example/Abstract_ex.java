@@ -6,6 +6,7 @@ interface Animal{
     public abstract void move();
     public abstract void bark();
 }
+
 //=============== 추상클래스
 class Dog implements Animal{
     public void move(){
@@ -23,6 +24,7 @@ class Horse implements Animal{
         System.out.println("히히ㅣ힝");
     }
 }
+
 
 //================= 메인함수
 public class Abstract_ex {
