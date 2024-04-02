@@ -1,5 +1,5 @@
 package example;
-
+    //클래스
     class TV{
         String color;
         boolean power;
