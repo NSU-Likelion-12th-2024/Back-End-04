@@ -11,6 +11,7 @@ public class HashMap_ex2 {
         ageMap.put("Bob",25);
         ageMap.put("Charlie",35);
 
+
         int bobAge1 = ageMap.get("Bob");
         System.out.println("Bob의 나이 : "+bobAge1);
 
