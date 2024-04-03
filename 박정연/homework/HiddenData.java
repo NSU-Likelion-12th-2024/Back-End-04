@@ -1,4 +1,5 @@
 /*
+
 package homework;
 //개인정보 중 일부를 비공개로 전환하는 프로그램
 //개인정보를 비공개로 전환하는 메소드_getHiddenDate()
@@ -14,24 +15,19 @@ class Data{
     private String Id;
     String Phone;
 
-   void getHiddenData(String name_get,int index){
-       this.Name=name_get;
-       String name_arr =new String(name_get);
+    public Data(){} //생성자
 
-   }
-    void getHiddenData(String id_get,int index){
-       this.Id=id_get;
-    }
-    void getHiddenData(String phone_get, int index){
-       this.Phone=phone_get;
-    }
+   void getHiddenData(String input,int index){
+        Data[] d=new Data[input.length()];
 
 }
 
 public class HiddenData {
     public static void main(String[] args){
-       //이름, 주민번호, 전화번호 입력
 
-    }
+
+     }
+       //이름, 주민번호, 전화번호 입력
 }
 */
+

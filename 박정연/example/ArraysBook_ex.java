@@ -18,7 +18,7 @@ public class ArraysBook_ex {
         for(int i=0;i< b.length;i++){
             b[i]=new Book();
         }
-         b[0].title ="국어책";
+        b[0].title ="국어책";
         b[0].price=3000;
         b[1].title="수학책";
         b[1].price=4000;
