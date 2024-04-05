@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5937899d-85a5-4486-9361-5b74663ec9ea" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/Practice/practice/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/Animal_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework/Week02_Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework/Week02_Ex02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework/Week02_Ex03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/OverRiding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Overloading1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Phone1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Phone2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/SmartPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/SmartPhone2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Tv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Tv1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework/Week01_Ex01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,40 +38,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Week01_Ex01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Week02_Ex01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Week02_Ex02.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;민재&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pc/OneDrive/Desktop/Back-End-04/김민재/Practice/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Animal.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Animal1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Animal1 (2).executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Animal1 (3).executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Animal1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OverRiding.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Overloading1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Week01_Ex01.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Animal.executor": "Run",
+    "Application.Ex.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Week01_Ex01.executor": "Run",
+    "Application.Week02_Ex01.executor": "Run",
+    "Application.Week02_Ex02.executor": "Run",
+    "Application.Week02_Ex03.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "민재",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/pc/OneDrive/Desktop/Back-End-04/김민재/Practice/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Animal.executor": "Run",
+    "애플리케이션.Animal1 (1).executor": "Run",
+    "애플리케이션.Animal1 (2).executor": "Run",
+    "애플리케이션.Animal1 (3).executor": "Run",
+    "애플리케이션.Animal1.executor": "Run",
+    "애플리케이션.OverRiding.executor": "Run",
+    "애플리케이션.Overloading1.executor": "Run",
+    "애플리케이션.Test1.executor": "Run",
+    "애플리케이션.Week01_Ex01.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -117,6 +105,8 @@
       <workItem from="1712032076616" duration="553000" />
       <workItem from="1712037037123" duration="1232000" />
       <workItem from="1712107522071" duration="593000" />
+      <workItem from="1712134055857" duration="9123000" />
+      <workItem from="1712305039485" duration="1546000" />
     </task>
     <servers />
   </component>
