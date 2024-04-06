@@ -27,6 +27,7 @@ public class HiddenData {
         String name= "박자바";
         String id = "010720-1234567";
         String phone = "010-1234-5678";
+
         data.Name=name;
         data.inputId(id);
         data.Phone=phone;
