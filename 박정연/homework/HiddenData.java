@@ -8,20 +8,21 @@ class Data {
     protected String Phone;
 
     Data() {} //생성자
-    public void inputId(String id){
-        this.Id=id;
-    }
-
-    public static String getHiddenData(String input,int index) { //메서드 getHiddenData()
+    public static String getHiddenData(String input, int index) { //메서드 getHiddenData()
         String str=input.substring(0,index);
         String str2="*".repeat(input.length()-index);
-        String result=str.concat(str2);
+        String result =str.concat(str2);
         return result;
+    }
+
+    public void inputId(String id) {
+        this.Id = id;
     }
 }
 
-public class HiddenData {
-    public static void main(String[] args){
+    public class HiddenData {
+        public static void main(String[] args){
+
         Data data = new Data();
 
         String name= "박자바";
@@ -38,4 +39,3 @@ public class HiddenData {
         System.out.println("전화번호 : "+data.getHiddenData(phone,9));
     }
 }
-
