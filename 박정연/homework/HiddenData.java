@@ -14,7 +14,6 @@ class Data {
         String result =str.concat(str2);
         return result;
     }
-
     public void inputId(String id) {
         this.Id = id;
     }
