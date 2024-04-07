@@ -18,6 +18,7 @@ class Hamburger{
         System.out.println("+ 피클");
     }
 }
+
 class CheeseBurger extends Hamburger{ //치즈버거
     String name ="치즈버거";
     @Override
