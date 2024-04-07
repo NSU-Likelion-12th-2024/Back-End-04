@@ -1,6 +1,7 @@
 package homework;
 //값을 입력하고 홀수값만 출력
 //list 사용
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
