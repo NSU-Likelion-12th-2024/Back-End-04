@@ -1,4 +1,5 @@
 package homework;
+//구구단
 
 import java.util.Scanner;
 
