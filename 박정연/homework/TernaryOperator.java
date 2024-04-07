@@ -1,5 +1,4 @@
 package homework;
-//do-while문 문제풀이
 
 import java.util.Scanner;
 
