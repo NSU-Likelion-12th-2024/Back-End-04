@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5937899d-85a5-4486-9361-5b74663ec9ea" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/Practice/practice/Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/ExceptionThrowsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/MyExceptionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practice/TryCatchFinallyEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework/Week03_Ex01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Practice/Container.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/Practice/Ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/Practice/Ex.class" afterDir="false" />
-    </list>
+    <list default="true" id="5937899d-85a5-4486-9361-5b74663ec9ea" name="변경" comment="변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +109,7 @@
       <workItem from="1712107522071" duration="593000" />
       <workItem from="1712134055857" duration="9123000" />
       <workItem from="1712305039485" duration="1546000" />
-      <workItem from="1712565905405" duration="9361000" />
+      <workItem from="1712565905405" duration="9706000" />
     </task>
     <servers />
   </component>

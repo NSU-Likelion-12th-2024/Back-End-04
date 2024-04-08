@@ -27,7 +27,7 @@ public class Week03_Ex01 {
                 new Board("Thomas", 15, 3500)
         ));
         System.out.println("[user name]");
-        boards.stream().sorted(Comparator.comparing(Board::getName)).map(Board::getName).forEach(n-> System.out.println(n));
+        boards.stream().map(Board::getName).forEach(n-> System.out.println(n));
         System.out.println();
         System.out.println("[user power 합계]");
         int powersum = boards.stream().mapToInt(Board::getPower).sum();
