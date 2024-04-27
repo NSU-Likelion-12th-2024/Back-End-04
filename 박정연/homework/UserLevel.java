@@ -20,6 +20,7 @@ class User{
         this.level=level;
     }
 }
+
 public class UserLevel {
     public static void main(String[] args){
         List<User> users=new ArrayList<>(Arrays.asList(
