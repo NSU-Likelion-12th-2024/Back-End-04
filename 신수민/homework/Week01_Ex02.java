@@ -21,7 +21,7 @@ public class homework2 {
             else {
                 System.out.println("오답");
 
-
+//수정
             }
         }
 
